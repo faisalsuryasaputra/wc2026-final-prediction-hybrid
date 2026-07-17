@@ -32,9 +32,3 @@ Based on 5,233 matches over the last 5 years:
 * 🇪🇸 **Spain Win:** 29.0%
 
 Statistically, Argentina enters the match as the slight favorite, driven heavily by their phenomenal defensive metrics. The most likely scoreline in normal time is 0-1 for Argentina or a 0-0 draw.
-
-## 🛠️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/username/wc2026-final-prediction-hybrid.git](https://github.com/username/wc2026-final-prediction-hybrid.git)
